@@ -6,8 +6,8 @@ draft: false
 slug: "perfecting-the-art-of-perfection"
 category: "- august 2015"
 tags:
-  - ""
-  - ""
+  - "web development"
+
 description: "Rezopia is a cloud based system for travel providers that allows for end-to-end management of travel reservations, contracts,
 operations and distribution."
 socialImage: "/media/image-2.jpg"
