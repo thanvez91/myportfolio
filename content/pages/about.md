@@ -6,7 +6,7 @@ socialImage: "/linkedinLates.png"
 
 Experienced frontend developer with a demonstrated history of working in the information technology and services industry.
 
-• Having 3+years’ experience in React JS and working with React-Redux architecture.
+• Having 5+years’ experience in React JS and working with React-Redux architecture.
 
 • Experience in designing User Interface (UI) web applications using ReactJS, Redux ES6,javascript, HTML, CSS, Less/Sass, Node.js, – UI related tools – NPM packages and Webpack.
 
