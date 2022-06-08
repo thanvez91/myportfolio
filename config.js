@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Thanvez Ahmed',
     photo: '/thanvezLatest.jpg',
-    bio: 'Senior System Analyst at Sonata Software | Web Developer | JavaScript | React js | HTML | CSS | Node js',
+    bio: 'Senior FrontEnd Engineer at Target | Web Developer | JavaScript | React js | HTML | CSS | Node js',
     contacts: {
       email: 'thanvez91@gmail.com',
       facebook: '',
