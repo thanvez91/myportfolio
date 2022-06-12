@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Thanvez Ahmed',
-    photo: '/thanvezLatest.jpg',
+    photo: '/latest1.jpg',
     bio: 'Senior Front-End Engineer at Target | Web Developer | JavaScript | React js | HTML | CSS | Node js',
     contacts: {
       email: 'thanvez91@gmail.com',
